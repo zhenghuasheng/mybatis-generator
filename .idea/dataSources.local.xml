@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - @localhost" uuid="45d24f6d-91d9-491a-a01d-c700e17d3761">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>order_platform.*</schema-pattern>
+      <default-schemas>sakila.*</default-schemas>
+    </data-source>
+  </component>
+</project>
